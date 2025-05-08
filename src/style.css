@@ -1,0 +1,15 @@
+footer{
+    border: 1px solid #ccc;
+}
+#sendForNewsLetter{
+    justify-content: center;
+    position: relative;
+    left: 50%;
+}
+header{
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    top: 0;
+}
